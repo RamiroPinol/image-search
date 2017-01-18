@@ -1,0 +1,19 @@
+{
+  "name": "image-search-rp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiroPinol/image-search.git"
+  },
+  "author": "RamiroP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiroPinol/image-search/issues"
+  },
+  "homepage": "https://github.com/RamiroPinol/image-search#readme"
+}
